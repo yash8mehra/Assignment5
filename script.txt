@@ -1,0 +1,355 @@
+Script started on 2026-04-13 23:14:49-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="120" LINES="30"]
+[?2004h]0;mehray2@thur114-hp1: ~/CSCI271/Assignment5[01;32mmehray2@thur114-hp1[00m:[01;34m~/CSCI271/Assignment5[00m$ javac assignment5.java 
+[?2004l[?2004h]0;mehray2@thur114-hp1: ~/CSCI271/Assignment5[01;32mmehray2@thur114-hp1[00m:[01;34m~/CSCI271/Assignment5[00m$ java assignment5 
+[?2004l____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+1
+enter item to insert:
+11
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+1
+enter item to insert:
+22
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+2
+enter item to insert:
+33
+new node added at front !
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+1
+enter item to insert:
+54  44
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+2
+enter item to insert:
+66
+new node added at front !
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+1
+enter item to insert:
+66
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+2
+enter item to insert:
+88
+new node added at front !
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+2
+enter item to insert:
+66
+new node added at front !
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+1
+enter item to insert:
+99
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+2
+enter item to insert:
+365 
+new node added at front !
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+4
+displayAll():
+____________List of 10 items________________
+[ 36 , 66 , 88 , 66 , 33 , 11 , 22 , 44 , 66 , 99] 
+
+displayRecursively():
+____________List of 10 items________________
+[ 36 , 66 , 88 , 66 , 33 , 11 , 22 , 44 , 66 , 99] 
+
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+99
+List sorted. 4 to display.
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+4
+displayAll():
+____________List of 10 items________________
+[ 11 , 22 , 33 , 36 , 44 , 66 , 66 , 66 , 88 , 99] 
+
+displayRecursively():
+____________List of 10 items________________
+[ 11 , 22 , 33 , 36 , 44 , 66 , 66 , 66 , 88 , 99] 
+
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+11
+enter item to insert in sorted order:
+55
+Item 55 inserted in sorted position.
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+4
+displayAll():
+____________List of 11 items________________
+[ 11 , 22 , 33 , 36 , 44 , 55 , 66 , 66 , 66 , 88 , 99] 
+
+displayRecursively():
+____________List of 11 items________________
+[ 11 , 22 , 33 , 36 , 44 , 55 , 66 , 66 , 66 , 88 , 99] 
+
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+88
+enter index to split at:
+5
+Original list before split:
+displayAll():
+____________List of 11 items________________
+[ 11 , 22 , 33 , 36 , 44 , 55 , 66 , 66 , 66 , 88 , 99] 
+
+Left part of list after split (L):
+displayAll():
+____________List of 5 items________________
+[ 11 , 22 , 33 , 36 , 44] 
+
+Right part of split (NL):
+displayAll():
+____________List of 6 items________________
+[ 55 , 66 , 66 , 66 , 88 , 99] 
+
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+4
+displayAll():
+____________List of 5 items________________
+[ 11 , 22 , 33 , 36 , 44] 
+
+displayRecursively():
+____________List of 5 items________________
+[ 11 , 22 , 33 , 36 , 44] 
+
+____________Main Menu_____________________
+select option :
+1 : insert back
+2 : insert front
+3 : insert at index
+4 : display items
+5 : get item at index
+6 : delete back
+7 : delete front
+8 : delete at index
+9 : exit
+11: insert sorted  (Q2)
+88: split at index (Q1)
+99: insertion sort (Q3)
+9
+[?2004h]0;mehray2@thur114-hp1: ~/CSCI271/Assignment5[01;32mmehray2@thur114-hp1[00m:[01;34m~/CSCI271/Assignment5[00m$ exit
+[?2004lexit
+
+Script done on 2026-04-13 23:17:34-04:00 [COMMAND_EXIT_CODE="0"]
